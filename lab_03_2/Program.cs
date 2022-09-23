@@ -6,10 +6,10 @@ namespace lab_03_2
 	{
 		public static void Main(string[] args)
 		{
-			Console.WriteLine("Задание 1");
+			/*Console.WriteLine("Задание 1");
 			Task_1();
 			Console.WriteLine("Задание 2");
-			Task_2();
+			Task_2(); */
 			Console.WriteLine("Задание 3");
 			Task_3();
 		}
