@@ -42,8 +42,10 @@ namespace lab_10
 
 		private static void Task3()
 		{
-			Console.WriteLine(Number.Factorial(5));
-			Console.WriteLine(Number.Fibonacci(7));
+			Console.Write("Number: ");
+			int number = int.Parse(Console.ReadLine() ?? string.Empty);
+			Console.WriteLine($"Factorial: {Number.Factorial(number)}\n" +
+			                  $"Fibonacci: {Number.Fibonacci(number)}");
 		}
 	}
 }
