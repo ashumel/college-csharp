@@ -6,12 +6,12 @@ namespace lab_14
 	{
 		public static void Main(string[] args)
 		{
-			//Task1();
-			//Console.ReadKey();
+			Task1();
+			Console.ReadKey();
 			Console.Clear();
-			//Task2();
-			//Console.ReadKey();
-			//Console.Clear();
+			Task2();
+			Console.ReadKey();
+			Console.Clear();
 			Task3();
 		}
 
