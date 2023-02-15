@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<phones>
+	<phone serial="74WB4-X7E22">
+		<number>214-445-9331</number>
+		<model>Asus ROG Phone 5</model>
+		<price>1,2</price>
+	</phone>
+	<phone serial="GNNMP-5AF09">
+		<number>802-867-2412</number>
+		<model>LG G6</model>
+		<price>1,6</price>
+	</phone>
+	<phone serial="ZB24M-5C8LJ">
+		<number>219-793-1801</number>
+		<model>Huawei P9</model>
+		<price>1,9</price>
+	</phone>
+	<phone serial="Q3HUQ-J5BCA">
+		<number>313-323-3989</number>
+		<model>Moto G7 Power</model>
+		<price>2,0</price>
+	</phone>
+	<phone serial="LTV5K-LSYVF">
+		<number>919-516-0566</number>
+		<model>Sony Xperia XZ1</model>
+		<price>6,4</price>
+	</phone>
+</phones>
