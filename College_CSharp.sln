@@ -60,6 +60,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab_23", "lab_23\lab_23.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab24", "Lab24\Lab24.csproj", "{BB7128CF-29B1-4C2A-97E5-967838F00234}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab24.Part1", "Lab24.Part1\Lab24.Part1.csproj", "{C18F066C-C248-4163-A9FC-E26E398B3911}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -182,6 +184,10 @@ Global
 		{BB7128CF-29B1-4C2A-97E5-967838F00234}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BB7128CF-29B1-4C2A-97E5-967838F00234}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BB7128CF-29B1-4C2A-97E5-967838F00234}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C18F066C-C248-4163-A9FC-E26E398B3911}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C18F066C-C248-4163-A9FC-E26E398B3911}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C18F066C-C248-4163-A9FC-E26E398B3911}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C18F066C-C248-4163-A9FC-E26E398B3911}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{675F1E31-7F5D-4C61-9515-5C7D4DF4A7B2} = {FF9EBB80-3A82-4E22-9894-27E63133B2CC}
