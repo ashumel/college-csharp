@@ -1,4 +1,4 @@
-﻿namespace Lab24.Part1;
+﻿namespace Lab24;
 
 public class Player
 {

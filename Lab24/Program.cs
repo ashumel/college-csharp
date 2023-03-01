@@ -1,4 +1,4 @@
-﻿namespace Lab24.Part1;
+﻿namespace Lab24;
 
 public static class Program
 {
@@ -94,7 +94,7 @@ public static class Program
 		}
 	}
 
-	private static void Heal(Player player)	
+	private static void Heal(Player player)		
 	{
 		while (player.IsAlive)
 		{
