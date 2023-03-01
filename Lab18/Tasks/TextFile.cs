@@ -1,6 +1,6 @@
 ﻿using System.Net;
 
-namespace lab_18.Tasks;
+namespace Lab18.Tasks;
 
 public static class TextFile
 {

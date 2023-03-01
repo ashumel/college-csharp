@@ -1,4 +1,4 @@
-﻿namespace lab_18.Tasks;
+﻿namespace Lab18.Tasks;
 
 public class AvgNumbers
 {

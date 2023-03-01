@@ -1,6 +1,6 @@
-﻿using lab_18.Tasks;
+﻿using Lab18.Tasks;
 
-namespace lab_18;
+namespace Lab18;
 
 internal static class Program
 {
