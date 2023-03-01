@@ -1,4 +1,4 @@
-﻿namespace lab_23;
+﻿namespace Lab23.Part1;
 
 public static class Program
 {

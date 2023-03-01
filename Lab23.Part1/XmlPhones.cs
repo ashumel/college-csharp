@@ -1,11 +1,11 @@
 ﻿using System.Xml;
 
-namespace lab_23;
+namespace Lab23.Part1;
 
 public class XmlPhones
 {
 	private XmlElement _root;
-	private XmlDocument _document = new XmlDocument();
+	private XmlDocument _document = new();
 	private string _fileName;
 	
 	public List<Phone> Phones { get; }
