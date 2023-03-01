@@ -2,7 +2,7 @@
 using System.Text.Json;
 using System.Xml.Serialization;
 
-namespace lab_19;
+namespace Lab19;
 
 internal static class Program
 {

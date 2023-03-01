@@ -1,4 +1,4 @@
-﻿namespace lab_19;
+﻿namespace Lab19;
 
 [Serializable]
 public class Cinema
