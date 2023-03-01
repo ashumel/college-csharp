@@ -1,4 +1,4 @@
-﻿namespace challenge_03;
+﻿namespace Challenge3;
 
 public class User
 {
