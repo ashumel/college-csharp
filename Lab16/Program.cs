@@ -1,4 +1,4 @@
-﻿namespace lab_16;
+﻿namespace Lab16;
 
 public static class Program
 {
