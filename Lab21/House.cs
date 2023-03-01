@@ -1,4 +1,4 @@
-﻿namespace lab_20;
+﻿namespace Lab21;
 
 public enum Type
 {
