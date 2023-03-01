@@ -1,4 +1,4 @@
-﻿namespace Lab24;
+﻿namespace Lab23.Part2;
 
 public static class Program 
 {
@@ -24,8 +24,7 @@ public static class Program
 			"492145244552426", "+1 202-918-2132");
 		phonesXml.Insert(phoneMy);
 		phonesXml.Save();
-
-		phonesXml.Phones[0].Model = "ЛСП";
+		
 		phonesXml.Save();
 	}
 }

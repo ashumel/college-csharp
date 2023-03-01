@@ -1,6 +1,6 @@
 ﻿using System.Xml.Linq;
 
-namespace Lab24;
+namespace Lab23.Part2;
 
 public class Phone
 {
